@@ -1,7 +1,11 @@
 a.Type of trip:wildcamping, regular camping site or glamping? - Cillian
+
 b.Location: where in Ireland are you going to go camping? - Rosangela
+
 c.What equipment do you need to bring along? Jojo
+
 d.What are you going to do for entertainmentor food? Rich
+
 
 To resolve issues (undertakingproject work)will require adding sections in the plan.md file relating to each topic. 
 DO NOT contribute directly to the plan.md file in the main branch. 
