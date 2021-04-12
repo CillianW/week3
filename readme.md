@@ -14,7 +14,9 @@ DO NOT contribute directly to the plan.md file in the main branch.
 Instead use the GitHub workflow:
 
 a.Create a feature-branch for your topic,
+
 b.Make proposed changes to the plan.md file in the feature-branch,
+
 c.Create a pull request for the proposed changes. 
 
 Remember to specify the project and reviewer when creating the pull request.
