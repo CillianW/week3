@@ -1,11 +1,12 @@
-a.Type of trip:wildcamping, regular camping site or glamping? - Cillian
+a.Type of trip:wildcamping, regular camping site or glamping?
 
-b.Location: where in Ireland are you going to go camping? - Rosangela
+b.Location: where in Ireland are you going to go camping?
 
-c.What equipment do you need to bring along? Jojo
+c.What equipment do you need to bring along?
 
-d.What are you going to do for entertainmentor food? Rich
+d.What are you going to do for entertainmentor food?
 
+Please see Projects Kanban board for assignees.
 
 To resolve issues (undertakingproject work) will require adding sections in the plan.md file relating to each topic. 
 
