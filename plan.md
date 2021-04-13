@@ -1,4 +1,5 @@
 <details>
-  ## Type of camping trip
+  **Type of camping trip**
+  
   Wild camping
 </details>
