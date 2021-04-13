@@ -1,5 +1,5 @@
 <details>
-    <summary>Click to expand!</summary>
+    <summary>Cillian's Issue</summary>
   
   ## Type of camping trip
   
