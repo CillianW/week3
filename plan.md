@@ -3,12 +3,12 @@
   
   ## Equipment needed
   
-  Tent
-  Pegs
-  Hammer
-  Gas Stove
-  Sleeping bags
-  Food
-  Water
+  Tent<br>
+  Pegs<br>
+  Hammer<br>
+  Gas Stove<br>
+  Sleeping bags<br>
+  Food<br>
+  Water<br>
 </details>
 
